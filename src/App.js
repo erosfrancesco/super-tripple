@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Here we go...
+          Here we go... without and with eb.exe
         </p>
       </header>
     </div>
